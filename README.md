@@ -1,4 +1,4 @@
-<h1>1. Wprowadzenie</h1>
+<h2>1. Wprowadzenie</h2>
 <p>W sprawozdaniu znajduje się opis gry oraz stosowane w niej metody
 sztucznej inteligencji. Wybrałem grę kółko i krzyżyk.</p>
 <h2>2. Opis gry:</h2>
