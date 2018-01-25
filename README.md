@@ -1,7 +1,7 @@
-<h>1. Wprowadzenie</h>
+<h1>1. Wprowadzenie</h1>
 <p>W sprawozdaniu znajduje się opis gry oraz stosowane w niej metody
 sztucznej inteligencji. Wybrałem grę kółko i krzyżyk.</p>
-<h>2. Opis gry:</h>
+<h2>2. Opis gry:</h2>
 <p>Kółko i krzyżyk – gra strategiczna rozgrywana przez dwóch graczy. Gracze
 obejmują pola na przemian dążąc do objęcia trzech pól w jednej linii, przy
 jednoczesnym uniemożliwieniu tego samego przeciwnikowi. Pole może być
